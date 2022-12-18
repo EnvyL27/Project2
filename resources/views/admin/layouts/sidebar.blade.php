@@ -5,7 +5,7 @@
                 <div class="logo-img">
 
                 </div>
-                <span class="text">Hospital</span>
+                <span class="text">EDoctor</span>
             </a>
 
         </div>

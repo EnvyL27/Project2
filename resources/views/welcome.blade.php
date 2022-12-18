@@ -5,9 +5,6 @@
         <div class="row mb-4 justify-content-center">
             <div class="col-md-8">
                 <h1>Book your appointment today!</h1>
-                <h4>Use these crediential to test the app:</h4>
-                <p>Admin--email: admin@gmail.com, password: password</p>
-                <p>Patient--email: patient@gmail.com, password: password</p>
                 @guest
                     <div class="mt-5">
                         <a href="{{ url('/register') }}"> <button class="btn btn-primary">Register as Patient</button></a>
